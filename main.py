@@ -8,4 +8,6 @@ Version 0.1: Milestone 2 Demo
 #TODO: command-line input of user input, import sample data set, implement basic algorithm
 # No ML yet, just using weights and equations from FCLA paper.
 
-
+# Computing dX, where X is a feature, n=num points in data set, x' is new data point:
+# dX = X - ((X*(n/n+1)) + (x'/n+1))
+# This basically just saves us from having to recompute the whole average
