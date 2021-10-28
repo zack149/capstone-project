@@ -1,0 +1,7 @@
+Please input user data here as specified.
+Household income ($):
+67521
+College educated? (0=no, 1=yes):
+1
+How expensive is the house you're going to buy? ($/square feet):
+

@@ -1,0 +1,5 @@
+---Sample data for New Orleans---
+Metro Median Household Income for 2019 ($):
+45615
+70119 Median Household Income for 2019 ($)
+39827
